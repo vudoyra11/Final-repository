@@ -86,3 +86,8 @@
 2026-07-03 22:36:39 | python -c \
 2026-07-03 22:37:52 | python scripts/04_visualise.py
 2026-07-03 22:37:56 | ls -la charts/*.png
+2026-07-03 22:40:55 | git add scripts/04_visualise.py charts/01_age_vs_savings.png charts/02_income_by_country.png charts/03_ai_usage_vs_satis
+2026-07-03 22:41:34 | git commit -m \
+2026-07-03 22:41:38 | echo \
+2026-07-03 22:44:28 | python -c \
+2026-07-03 22:45:29 | tail -5 session-log.md
