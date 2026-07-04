@@ -80,3 +80,9 @@
 2026-07-03 22:26:57 | python scripts/03_analyse.py
 2026-07-03 22:28:13 | python -c \
 2026-07-03 22:29:30 | python scripts/03_analyse.py
+2026-07-03 22:31:34 | git add scripts/03_analyse.py scripts/analysis_findings.md session-log.md && git status --short
+2026-07-03 22:31:40 | git commit -m \
+2026-07-03 22:31:43 | echo \
+2026-07-03 22:36:39 | python -c \
+2026-07-03 22:37:52 | python scripts/04_visualise.py
+2026-07-03 22:37:56 | ls -la charts/*.png
