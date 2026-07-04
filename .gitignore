@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local overrides with the real Notion API key (never commit)
+.claude/settings.local.json
+
+# OS
+.DS_Store
+Thumbs.db
