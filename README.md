@@ -128,7 +128,8 @@ desarrollo del proyecto.
 - `charts/` — los 5 gráficos PNG que respaldan los hallazgos principales
 - `.claude/` — configuración completa de settings, hooks, skills y agente usada para producir este pipeline
 
-No incluidos en el repositorio (ver `final-deliverables.md`): la URL del repo de
-GitHub una vez publicado, el archivo ZIP del proyecto, el video de demostración,
-y la URL del workspace de Notion — pendientes hasta completar los pasos finales
-de publicación.
+Repositorio publicado en GitHub: https://github.com/vudoyra11/Final-repository
+
+Pendientes fuera de este repositorio (ver `final-deliverables.md`): el archivo
+ZIP del proyecto, el video de demostración, y la URL del workspace de Notion —
+esta última bloqueada hasta reemplazar la clave de API de marcador de posición.

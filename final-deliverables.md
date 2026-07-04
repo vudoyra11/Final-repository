@@ -4,7 +4,7 @@ Estado a fecha 2026-07-03. Marcado ✅ = completo y en el repositorio; ⬜ = pen
 
 | # | Entregable | Estado | Ubicación / Nota |
 |---|---|---|---|
-| 1 | URL del repositorio de GitHub | ⬜ Pendiente | Placeholder — repo aún no ha sido pusheado a GitHub (`[URL DEL REPO GITHUB]`) |
+| 1 | URL del repositorio de GitHub | ✅ Completo | https://github.com/vudoyra11/Final-repository |
 | 2 | Archivo ZIP del proyecto | ⬜ Pendiente | No generado aún |
 | 3 | Video de demostración | ⬜ Pendiente | No grabado aún |
 | 4 | `analysis-report.md` | ✅ Completo | Raíz del repo — informe ejecutivo en español |
@@ -17,7 +17,7 @@ Estado a fecha 2026-07-03. Marcado ✅ = completo y en el repositorio; ⬜ = pen
 
 ## Resumen
 
-- **Completo (7/10):** informe ejecutivo, gráficos, scripts, configuración de Claude Code, log de calidad de datos, session log, y (implícitamente) el dataset limpio que los respalda.
-- **Pendiente (3/10):** publicación/empaquetado externo — URL de GitHub, ZIP del proyecto, video de demostración — y la URL del workspace de Notion, bloqueada hasta reemplazar la clave de API de marcador de posición por una clave real y verificada.
+- **Completo (8/10):** URL del repositorio de GitHub, informe ejecutivo, gráficos, scripts, configuración de Claude Code, log de calidad de datos, session log, y (implícitamente) el dataset limpio que los respalda.
+- **Pendiente (2/10):** ZIP del proyecto, video de demostración — y la URL del workspace de Notion, bloqueada hasta reemplazar la clave de API de marcador de posición por una clave real y verificada.
 
-No se ha hecho push a GitHub ni se ha publicado nada en Notion, conforme a las instrucciones recibidas durante el proyecto.
+El repositorio ya fue pusheado a GitHub (https://github.com/vudoyra11/Final-repository). No se ha publicado nada en Notion, conforme a las instrucciones recibidas durante el proyecto.
