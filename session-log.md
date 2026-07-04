@@ -111,3 +111,12 @@
 2026-07-03 23:28:18 | git remote add origin https://github.com/vudoyra11/Final-repository.git && git remote -v
 2026-07-03 23:29:25 | git push -u origin master
 2026-07-03 23:29:30 | git status; echo; git log --oneline -5
+2026-07-03 23:38:53 | git add final-deliverables.md README.md session-log.md && git status --short
+2026-07-03 23:38:59 | git commit -m \
+2026-07-03 23:39:08 | git push origin master
+2026-07-03 23:39:13 | echo \
+2026-07-03 23:42:33 | pwd\necho \
+2026-07-03 23:44:20 | cd .. && python -c \
+2026-07-03 23:44:31 | python -c \
+2026-07-03 23:44:43 | python -c \
+2026-07-03 23:44:47 | ls -la final-capstone-submission.zip
